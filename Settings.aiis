@@ -211,8 +211,20 @@
     "DefaultDesktopApplicationWorkingFolder": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "460b81dc-e506-42e9-9931-e8f794e295d1",
-    "SourceControlRepository": null,
-    "IsOnline": false,
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/herususeno-ITJababeka/tutorial.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/herususeno-ITJababeka/tutorial.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
